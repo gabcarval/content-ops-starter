@@ -8,7 +8,7 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: ''
-        subtitle: Halle Berre
+        subtitle: Halle Berry Will "Never Let Go"
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
