@@ -20,7 +20,16 @@ sections:
           styles:
             self:
               borderRadius: full
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://www.youtube.com/watch?v=rYVC54Jl4xE'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
