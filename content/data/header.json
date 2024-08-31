@@ -35,7 +35,7 @@
             "label": "Books",
             "altText": "Careers page",
             "url": "/careers",
-            "icon": "arrowRight",
+            "icon": "chevronDown",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
