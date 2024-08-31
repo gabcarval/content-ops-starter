@@ -9,10 +9,8 @@ sections:
         title: ''
         tagline: ''
         subtitle: Halle Berry Will "Never Let Go"
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Watch the chilling trailer
         actions:
           - type: Button
             label: Get started
