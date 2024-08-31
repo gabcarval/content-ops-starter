@@ -13,15 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Films",
-            "url": "/pricing",
-            "icon": "chevronDown",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "showIcon": true
-        },
-        {
             "type": "SubNav",
             "label": "Films",
             "altText": "Dropdown",
