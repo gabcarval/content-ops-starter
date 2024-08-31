@@ -1,43 +1,48 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/ByCritic.png"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Films",
             "url": "/pricing",
-            "icon": "arrowRight",
+            "icon": "chevronDown",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "showIcon": true
         },
         {
-            "label": "Blog",
+            "label": "TV Programs",
             "altText": "Blog",
             "url": "/blog",
-            "icon": "arrowRight",
+            "icon": "chevronDown",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "showIcon": true
         },
         {
-            "label": "Careers",
+            "label": "Books",
             "altText": "Careers page",
             "url": "/careers",
-            "icon": "arrowRight",
+            "icon": "chevronDown",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "showIcon": true
         },
         {
-            "label": "Dropdown",
+            "label": "Celebrities",
             "altText": "Dropdown",
             "links": [
                 {
@@ -71,20 +76,20 @@
     ],
     "secondaryLinks": [
         {
+            "label": "Log in",
+            "url": "/",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "type": "Button"
+        },
+        {
             "label": "Sign up",
             "altText": "Sign up",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Log in",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
             "type": "Button"
         }
     ],
