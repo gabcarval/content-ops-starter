@@ -54,16 +54,6 @@
             "labelStyle": "secondary"
         },
         {
-            "label": "TV Programs",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "chevronDown",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "showIcon": true
-        },
-        {
             "label": "Books",
             "altText": "Careers page",
             "url": "/careers",
