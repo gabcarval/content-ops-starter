@@ -32,16 +32,6 @@
             "showIcon": true
         },
         {
-            "label": "Books",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "chevronDown",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "showIcon": true
-        },
-        {
             "label": "Dropdown",
             "altText": "Dropdown",
             "links": [
@@ -72,6 +62,16 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "label": "Books",
+            "altText": "Careers page",
+            "url": "/careers",
+            "icon": "chevronDown",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link",
+            "showIcon": true
         }
     ],
     "secondaryLinks": [
