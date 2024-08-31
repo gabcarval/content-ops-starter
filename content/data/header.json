@@ -42,6 +42,17 @@
             "showIcon": true
         },
         {
+            "type": "Link",
+            "label": "Play",
+            "altText": "Play",
+            "url": "www.youtube.com",
+            "showIcon": true,
+            "icon": "play",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "Dropdown",
             "altText": "Dropdown",
             "links": [
