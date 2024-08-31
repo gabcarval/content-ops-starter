@@ -73,6 +73,7 @@ sections:
       subtitle:
         textAlign: center
         fontStyle: italic
+        fontWeight: 700
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
