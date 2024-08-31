@@ -14,7 +14,7 @@ sections:
           - type: Button
             label: Watch Trailer
             altText: ''
-            url: 'https://www.youtube.com/watch?v=rYVC54Jl4xE'
+            url: 'https://www.youtube.com/watch?v=-H3yhfkJBnQ'
             showIcon: false
             icon: arrowRight
             iconPosition: right
