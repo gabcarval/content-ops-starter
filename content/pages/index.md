@@ -13,13 +13,6 @@ sections:
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
-        image:
-          type: ImageBlock
-          url: /images/Design sem nome (1).png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
         actions:
           - type: Button
             label: Get started
