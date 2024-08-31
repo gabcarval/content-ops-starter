@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: 'Trending Films, Series, Books'
     items:
       - type: FeaturedItem
         title: >-
