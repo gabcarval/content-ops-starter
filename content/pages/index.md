@@ -9,8 +9,7 @@ sections:
         title: ''
         tagline: ''
         subtitle: Halle Berry New "Never Let Go"
-        text: |
-          Watch the chilling trailer
+        text: "When an unspeakable evil takes over the world, the only protection for a mother and her twin sons is their house and strong bond. Needing to stay connected at all times -- even tethering themselves with ropes -- they must cling to one another and never let go. However, when one of the boys questions\_if the evil is real, the ties that bind them together are severed, triggering a terrifying fight for survival.\n"
         actions:
           - type: Button
             label: Get started
