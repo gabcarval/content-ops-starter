@@ -27,7 +27,7 @@
             "url": "/blog",
             "icon": "instagram",
             "iconPosition": "right",
-            "style": "primary",
+            "style": "secondary",
             "type": "Link",
             "showIcon": true
         },
