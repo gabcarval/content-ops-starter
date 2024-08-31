@@ -32,7 +32,7 @@
             "showIcon": true
         },
         {
-            "label": "Careers",
+            "label": "Books",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
