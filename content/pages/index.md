@@ -8,7 +8,7 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: ''
-        subtitle: Never Let Go
+        subtitle: Halle Berry New "Never Let Go"
         text: |
           Watch the chilling trailer
         actions:
