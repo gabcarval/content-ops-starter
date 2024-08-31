@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Review, Critic , Opine'
+      text: 'Review, Critic Opine'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
