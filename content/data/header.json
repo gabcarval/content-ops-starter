@@ -23,7 +23,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Dropdown",
+            "label": "Films",
             "altText": "Dropdown",
             "links": [
                 {
