@@ -44,10 +44,11 @@ sections:
         title: Sonic The Hedgehod 3 trailer is launched
         tagline: Sonic The Hedgehog 3 is announced
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Sonic, Knuckles and Tails reunite to battle Shadow, a mysterious new
+          enemy with powers unlike anything they've faced before. With their
+          abilities outmatched in every way, they seek out an unlikely alliance
+          to stop Shadow and protect the planet.
         actions: []
         colors: bg-dark-fg-light
         styles:
