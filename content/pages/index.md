@@ -51,7 +51,7 @@ sections:
           to stop Shadow and protect the planet.
         actions:
           - type: Button
-            label: Get started
+            label: Watch Now
             altText: ''
             url: 'https://www.youtube.com/watch?v=qSu6i2iFMO0'
             showIcon: false
