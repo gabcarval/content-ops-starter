@@ -49,7 +49,16 @@ sections:
           enemy with powers unlike anything they've faced before. With their
           abilities outmatched in every way, they seek out an unlikely alliance
           to stop Shadow and protect the planet.
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://www.youtube.com/watch?v=qSu6i2iFMO0'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-dark-fg-light
         styles:
           self:
