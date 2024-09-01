@@ -43,7 +43,7 @@ sections:
       - type: FeaturedItem
         title: Sonic The Hedgehod 3 trailer is launched
         tagline: Sonic The Hedgehog 3 is announced
-        subtitle: 'Jane Doe, Company'
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
