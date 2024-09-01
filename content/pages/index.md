@@ -41,9 +41,7 @@ sections:
             self:
               borderRadius: medium
       - type: FeaturedItem
-        title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
+        title: Sonic The Hedgehod 3 trailer is launched
         tagline: Sonic The Hedgehog is announced
         subtitle: 'Jane Doe, Company'
         text: >-
