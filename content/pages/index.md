@@ -41,23 +41,24 @@ sections:
             self:
               borderRadius: medium
       - type: FeaturedItem
-        title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
-        tagline: Testimonial 2
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-        actions: []
+        title: Sonic The Hedgehod 3 trailer is launched
+        tagline: Sonic The Hedgehog 3 is announced
+        subtitle: ''
+        text: >
+          Sonic, Knuckles and Tails reunite to battle Shadow, a mysterious new
+          enemy with powers unlike anything they've faced before. With their
+          abilities outmatched in every way, they seek out an unlikely alliance
+          to stop Shadow and protect the planet.
+        actions:
+          - type: Button
+            label: Watch Now
+            altText: ''
+            url: 'https://www.youtube.com/watch?v=qSu6i2iFMO0'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-dark-fg-light
         styles:
           self:
@@ -70,6 +71,14 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+        image:
+          type: ImageBlock
+          url: /images/Design sem nome (2).png
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
     variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
