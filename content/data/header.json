@@ -96,7 +96,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Dropdown",
+            "label": "Books",
             "altText": "Dropdown",
             "links": [
                 {
