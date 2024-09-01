@@ -54,16 +54,6 @@
             "labelStyle": "secondary"
         },
         {
-            "label": "Books",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "chevronDown",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "showIcon": true
-        },
-        {
             "label": "Celebrities",
             "altText": "Dropdown",
             "links": [
