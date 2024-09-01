@@ -52,7 +52,6 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/Design sem nome (2).png
           altText: Jane Doe
           styles:
             self:
